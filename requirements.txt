@@ -4,3 +4,5 @@
 
 azure-functions
 kafka-python
+certifi
+confluent-kafka
